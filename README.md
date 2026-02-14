@@ -94,7 +94,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/Srivarshini346/
+- GitHub: https://github.com/Srivarshini346
 - Personal Email: csrivarshini346@gmail.com
 - Email: cb.sc.u4cse23509@cb.students.amrita.edu
