@@ -1,4 +1,4 @@
-# Hi 👋 I'm Chayamaggari Srivarshini
+# Hi 👋 I'm Chayammagari Srivarshini
 
 🎓 B.Tech Computer Science and Engineering Student (2027)  
 🏫 Amrita Vishwa Vidyapeetham, Coimbatore  
